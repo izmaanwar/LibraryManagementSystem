@@ -1,0 +1,94 @@
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\memWindow.baml
+C:\Users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\memWindow.g.cs
+C:\Users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\staffWindow.baml
+C:\Users\asad328\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\staffWindow.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Account.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Books.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Magazine.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\memWindow.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Newspaper.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\SearchBook.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\staffWindow.baml
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Account.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Books.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Magazine.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\memWindow.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Newspaper.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\SearchBook.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\staffWindow.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Faisal\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Account.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Books.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\issuebook.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Magazine.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Manage Books.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\ManageMember.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\memWindow.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Newspaper.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Returnbook.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\SearchBook.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\staffWindow.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Account.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Books.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\issuebook.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Magazine.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Manage Books.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\ManageMember.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\memWindow.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Newspaper.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\Returnbook.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\SearchBook.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\staffWindow.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddBook.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddBook.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\updateAccount.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\updateAccount.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\UpdateBook.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\UpdateBook.g.cs
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\changePass.baml
+C:\Users\asad328\Desktop\WpfApplication1\WpfApplication1\obj\Debug\changePass.g.cs
+C:\Users\asad328\Desktop\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\asad328\Desktop\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\asad328\Desktop\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\aa\Desktop\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\aa\Desktop\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\aa\Desktop\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\study material\4rd sesmester\db lab\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\study material\4rd sesmester\db lab\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\study material\4rd sesmester\db lab\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\LibraryManagmentSystem(BSEF15M053,BSEF15M064,Bsef15M005,BSEF15M001)\WpfApplication1\obj\Debug\WpfApplication1.pdb

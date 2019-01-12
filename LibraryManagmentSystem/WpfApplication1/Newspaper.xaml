@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApplication1.Newspaper"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Newspaper" Height="500" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Image/newImage.jpg"/>
+        </Grid.Background>
+        <Label Content="Newspapers" HorizontalAlignment="Left" Margin="279,39,0,0" VerticalAlignment="Top" Width="212" Height="42" Foreground="#FFC3983D" FontWeight="Bold" FontSize="24" FontFamily="Ravie"/>
+        <DataGrid x:Name="datagridnews" HorizontalAlignment="Left" Margin="0,102,0,0" VerticalAlignment="Top" Height="367" Width="792" ColumnWidth="*"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="671,10,0,0" VerticalAlignment="Top" Width="111" Height="26" FontFamily="Segoe UI Black" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApplication1.memWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="memWindow" Height="500" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="Image/newImage.jpg"/>
+    </Window.Background>
+    <Grid Margin="0,-16,2,-1">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Label Content="Library Managment System" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="423" Height="60" Foreground="#FFC1A422" FontSize="36" FontWeight="Bold" FontFamily="Script MT Bold"/>
+        <Button x:Name="logOut" Content="Logout" HorizontalAlignment="Left" Margin="680,45,0,0" VerticalAlignment="Top" Width="83" Height="40" Click="logOut_Click"/>
+        <Button Content="Update Account" HorizontalAlignment="Left" Margin="573,45,0,0" VerticalAlignment="Top" Width="92" Height="40" Click="Button_Click"/>
+        <Button x:Name="searchBook" Content="Search Books" HorizontalAlignment="Left" Margin="72,144,0,0" VerticalAlignment="Top" Width="93" Height="39" Click="searchBook_Click"/>
+        <Button x:Name="IssuedBook" Content="Issued Books" HorizontalAlignment="Left" Margin="72,242,0,0" VerticalAlignment="Top" Width="93" Height="36" Click="IssuedBook_Click"/>
+        <Button x:Name="viewMag" Content="View Magazine" HorizontalAlignment="Left" Margin="72,327,0,0" VerticalAlignment="Top" Width="93" Height="39" Click="viewMag_Click"/>
+        <Button x:Name="viewBooks" Content="View Books" HorizontalAlignment="Left" Margin="245,144,0,0" VerticalAlignment="Top" Width="92" Height="39" Click="viewBooks_Click"/>
+        <Button x:Name="fine" Content="View Fine" HorizontalAlignment="Left" Margin="245,242,0,0" VerticalAlignment="Top" Width="92" Height="36" Click="fine_Click"/>
+        <Button x:Name="viewNews" Content="View Newspaper" HorizontalAlignment="Left" Margin="245,327,0,0" VerticalAlignment="Top" Width="92" Height="39" Click="viewNews_Click"/>
+        <Label x:Name="u_id" Content="" HorizontalAlignment="Left" Margin="21,100,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
